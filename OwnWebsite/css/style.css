@@ -1,0 +1,65 @@
+/*title Eggo*/
+h1 {  
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 45px;
+  font-weight: 600;
+  padding-top: 1%;
+  /*padding-left: 1%;*/
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+	/*color: ;*/
+}
+
+/*@font-face {*/
+/*  font-family: 'KellogsFont';*/
+/*  src: url('BarleyScript_PERSONAL_USE.ttf') format ('truetype');*/
+/*}*/
+
+
+/*yellow top*/
+/*section {*/
+/*	background-color: yellow;*/
+/*  margin-top: 10px;*/
+/*  margin-bottom: 400px;*/
+/*}*/
+
+/*top menu background*/
+ul {
+  width: 100%;
+  list-style-type: none;
+  margin: auto;
+  overflow: hidden;
+  background-color: orange;
+  font-family: "Lucida Console", Monaco, monospace;
+  
+ 
+  position: fixed;
+  top: 100px;
+}
+
+/*top menu text*/
+li {
+  display: block;
+  color: black;
+  /*text-align: center;*/
+  text-align: center;
+  padding: 14px 16px;
+  float: left;
+  top: 15px;
+}
+
+/*eggo gif*/
+img {
+  position: fixed;
+  top: 20%;
+  height: 70%;
+  width: 70%;
+}
+
+.center {
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    /*width: 100%;*/
+}
